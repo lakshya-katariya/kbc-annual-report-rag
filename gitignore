@@ -1,0 +1,8 @@
+# Downloaded report and cached data (not committed)
+data/
+
+# Secrets (API keys)
+.env
+
+# Jupyter
+.ipynb_checkpoints/

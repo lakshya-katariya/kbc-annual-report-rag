@@ -1,0 +1,7 @@
+numpy
+pandas
+pdfplumber
+python-dotenv
+requests
+semchunk
+sentence-transformers
